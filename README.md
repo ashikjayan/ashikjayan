@@ -1,16 +1,18 @@
-## Hi there 👋
+# **Hi there, I'm Ashik Jayan 👋**
 
-<!--
-**ashikjayan/ashikjayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ***About me***
 
-Here are some ideas to get you started:
+🌱 I'm currently learning Data Science and exploring data analysis, data visualization, and web scrapping.  
+💼 I'm passionate about becoming a Data Scientist and Data Analyst
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ***Skills*** 
+:snake: Python  
+:magic_wand: Data Analysis  
+:globe_with_meridians: Data Visualisation  
+:computer: Web Scrapping  
+:fireworks: Power BI
+
+:warning:
+ Huge Manchester United Fan :smile:
+
+Thanks for stopping by my GitHub profile, do connect with me for exciting conversations :cherry_blossom: 
