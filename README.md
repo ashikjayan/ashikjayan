@@ -12,6 +12,11 @@
 :computer: Web Scrapping  
 :fireworks: Power BI
 
+## ***Projects***
+:anchor: You can check out some of the projects that I have worked on here.
+
+
+ 
 :warning:
  Huge Manchester United Fan :smile:
 
