@@ -13,8 +13,8 @@
 * :fireworks: Power BI
 
 ## ***Reach me through***
-* Email ID: ashikjayan72@gmail.com
-* You can also connect me through [LinkedIn](www.linkedin.com/in/ashikjayan72)
+* 📥 Email ID: ashikjayan72@gmail.com
+* 🧬 You can also connect me through [LinkedIn](www.linkedin.com/in/ashikjayan72)
 
 ## ***Projects***
 * :anchor: You can check out some of the projects that I have worked on here.
